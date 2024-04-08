@@ -1,0 +1,15 @@
+i{
+    font-size: 36px;
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+.Icon{
+    display: flex;
+    justify-content: center;
+
+}
+.heart-active {
+    color: red; /* New color when active */
+  }
+  
